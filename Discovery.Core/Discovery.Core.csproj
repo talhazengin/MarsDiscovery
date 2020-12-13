@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <OutputType>Library</OutputType>
+    <AssemblyName>Discovery.Core</AssemblyName>
+    <RootNamespace>Discovery.Core</RootNamespace>
+  </PropertyGroup>
+
+</Project>
